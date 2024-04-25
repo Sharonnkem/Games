@@ -1,0 +1,47 @@
+button {
+  margin-top: 10px;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  
+}
+
+.img {
+  height: 3em;
+}
+
+.button {
+  background-color: transparent;
+  border: 0.3em solid white;
+  width: 7.5em;
+  height: 7.5em;
+  border-radius: 3.75em;
+  margin-right: 1em;
+  cursor: pointer;
+}
+
+.score {
+  font-size: 1.5em;
+}
+
+.image-container {
+  display: inline-block;
+  margin-right: 2em;
+  margin-top: 2em;
+  cursor: pointer; 
+}
+
+.image-container img {
+  height: 3em; 
+ 
+}
+
+.reset {
+  margin-top: 1em;
+  height: 3em;
+  width: 8em;
+  padding: 1em, 1em;
+}
